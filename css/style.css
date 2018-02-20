@@ -1,0 +1,13 @@
+/* Set gradient here */
+body {  
+    /* background: linear-gradient(-90deg, purple, yellow); */
+     background: linear-gradient(-90deg, black, pink, green ); 
+    /* background: linear-gradient(-90deg, yellow, orange, red, green, blue);*/
+}
+
+canvas { 
+    display:block; /* remove scrollbars */
+    position: absolute; 
+    left: 0;
+    top: 0;
+}
