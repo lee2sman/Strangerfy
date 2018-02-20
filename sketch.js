@@ -5,9 +5,9 @@ function setup(){
 }	
 
 function draw(){
-	//fill(0,255,0);
-	//textSize(36);
-	//text("Hi",mouseX,mouseY);
+	fill(0,200,0);
+	textSize(36);
+	text("$",mouseX,mouseY);
 
 }	
 
