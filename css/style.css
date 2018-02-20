@@ -1,13 +1,28 @@
 /* Set gradient here */
 body {  
-    /* background: linear-gradient(-90deg, purple, yellow); */
-     background: linear-gradient(-90deg, black, pink, green ); 
+     background: linear-gradient(-90deg, purple, yellow); 
+    /* background: linear-gradient(-90deg, black, pink, green ); */
     /* background: linear-gradient(-90deg, yellow, orange, red, green, blue);*/
 }
 
 canvas { 
     display:block; /* remove scrollbars */
-    position: absolute; 
+    position: absolute;  /* position at top left corner for overlay */
     left: 0;
     top: 0;
+}
+
+h1 {
+    color: #111;
+    font-family: 'Helvetica Neue', sans-serif;
+}
+
+h2 {
+    color: #111;
+    font-family: 'Open Sans',sans-serif; 
+}
+
+p {
+    color: #685206;
+    font-family: 'Helvetica Neue', sans-serif;
 }

@@ -66,7 +66,8 @@ hr {
 a {
   text-decoration: none;
   color: #2c8898; }
-  a:hover {
+
+a:hover {
     color: #982c61;
     border-bottom: 2px solid #4a4a4a; }
 
